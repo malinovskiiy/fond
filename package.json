@@ -1,0 +1,16 @@
+{
+  "name": "portal-fond",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://malinovskii.github.io/fond",
+  "dependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
